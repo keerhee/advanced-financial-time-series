@@ -12,8 +12,8 @@ the multivariate world (VAR), state space (Kalman, HMM) and stochastic processes
 Bayesian inference (MCMC). Every unit runs in three parts — theory, deep dive, practice —
 and every part connects directly to code and market data.
 
-**113 PDFs · 2,317 slides.** 48 lecture decks, 48 practice decks, one syllabus, plus one
-merged file per week. **Only PDFs, code and Markdown are tracked here** — the editable
+**97 PDFs · 2,317 slides.** 48 lecture decks, 48 practice decks, and the syllabus —
+one PDF per deck, matching the three-part shape of each unit. **Only PDFs, code and Markdown are tracked here** — the editable
 PPTX sources are excluded by `.gitignore`, since a binary rewrites its whole blob into
 history on every save.
 
@@ -23,7 +23,7 @@ history on every save.
 
 | Path | Contents |
 |---|---|
-| `W01_Returns_and_Markets/` … `W16_Model_Selection_and_Capstone/` | Six decks per week — a lecture and a practice deck for each of the three parts — plus `*_Complete.pdf`, the whole week in one file |
+| `W01_Returns_and_Markets/` … `W16_Model_Selection_and_Capstone/` | Six decks per unit — a lecture and a practice deck for each of the three parts |
 | `course/` | Syllabus and the [curriculum map](course/curriculum_map.md) |
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
@@ -37,7 +37,6 @@ so nothing needs cloning to read. Ask separately if you need the PPTX originals.
 |---|---|
 | Lecture deck | `W05_P2_GARCH_Lecture.pdf` |
 | Practice deck | `W05_P2_GARCH_Practice.pdf` |
-| Whole week | `W05_Volatility_Models_Complete.pdf` |
 
 `W05_P2` reads as week 5, part 2. Lecture and practice decks for the same part share a
 slug, so they sort next to each other.
