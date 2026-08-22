@@ -1,0 +1,21 @@
+# Editable sources stay out — binaries bloat history on every revision
+*.pptx
+*.pptx.bak
+*.key
+*.mp4
+*.mov
+
+# Data is extracted, never committed
+data_out/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

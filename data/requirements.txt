@@ -1,0 +1,14 @@
+# Data extraction
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.24
+
+# Modelling (as listed on the syllabus)
+statsmodels>=0.14
+arch>=6.0
+scipy>=1.10
+matplotlib>=3.7
+
+# Weeks 8-9 (Kalman) and 13-15 (Bayesian) - install when you reach them
+# filterpy>=1.4
+# pymc>=5.10
