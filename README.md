@@ -26,6 +26,7 @@ history on every save.
 | `W01_Returns_and_Markets/` … `W16_Model_Selection_and_Capstone/` | Six decks per unit — a lecture and a practice deck for each of the three parts |
 | `course/` | Syllabus and the [curriculum map](course/curriculum_map.md) |
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
+| `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
 
 Page counts match the source slide counts one for one. GitHub renders PDFs in the browser,
@@ -40,6 +41,10 @@ so nothing needs cloning to read. Ask separately if you need the PPTX originals.
 
 `W05_P2` reads as week 5, part 2. Lecture and practice decks for the same part share a
 slug, so they sort next to each other.
+
+Supplementary notes are numbered separately — `S01_Fat_Tails_and_Power_Laws_EN.pdf` — and
+are the one place here where material also appears in Korean (`_KR`), since the questions
+they answer arrive in both languages.
 
 ---
 
