@@ -26,7 +26,7 @@ history on every save.
 | `W01_Returns_and_Markets/` … `W16_Model_Selection_and_Capstone/` | Six decks per unit — a lecture and a practice deck for each of the three parts |
 | `course/` | Syllabus and the [curriculum map](course/curriculum_map.md) |
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
-| `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, in English and Korean |
+| `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, and the Week 4 make-up class, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
 
 Page counts match the source slide counts one for one. GitHub renders PDFs in the browser,
