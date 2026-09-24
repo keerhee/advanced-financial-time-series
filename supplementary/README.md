@@ -48,6 +48,8 @@ identification on ACF/PACF and information-criterion grids, and SARIMA with the 
 on Mauna Loa CO₂. Cases include the T-bill half-life, the Roll bid-ask spread, and US real GDP
 forecast bands. Written for students who wanted the U02–U04 sequence laid out end to end
 before the mid-term.
+A narrated video of the English deck (44 minutes) is on YouTube:
+https://youtu.be/P0ultu9mB6E.
 
 ## File names
 
