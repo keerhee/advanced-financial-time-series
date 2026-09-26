@@ -27,6 +27,7 @@ history on every save.
 | `course/` | Syllabus and the [curriculum map](course/curriculum_map.md) |
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, and the Week 4 make-up class, in English and Korean |
+| `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
 
 Page counts match the source slide counts one for one. GitHub renders PDFs in the browser,
@@ -44,7 +45,8 @@ slug, so they sort next to each other.
 
 Supplementary notes are numbered separately — `S01_Fat_Tails_and_Power_Laws_EN.pdf` — and
 are the one place here where material also appears in Korean (`_KR`), since the questions
-they answer arrive in both languages.
+they answer arrive in both languages. Special lectures follow the same pattern with their own
+numbers — `SL01_Cointegration_EG_Johansen_ECM_EN.pdf`.
 
 ---
 
