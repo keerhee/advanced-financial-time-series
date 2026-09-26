@@ -27,7 +27,7 @@ history on every save.
 | `course/` | Syllabus and the [curriculum map](course/curriculum_map.md) |
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, and the Week 4 make-up class, in English and Korean |
-| `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end, in English and Korean |
+| `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, then a four-part pairs-trading series, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
 
 Page counts match the source slide counts one for one. GitHub renders PDFs in the browser,
