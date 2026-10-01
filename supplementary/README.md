@@ -15,6 +15,7 @@ New notes are added as questions come in, numbered in the order they were writte
 | S01 | [Fat Tails and Power Laws](S01_Fat_Tails_and_Power_Laws_EN.pdf) · [한국어](S01_Fat_Tails_and_Power_Laws_KR.pdf) | 18 | U01 Part 2 — Stylized Facts |
 | S02 | [Time Series Basics in 6 Hours](S02_Time_Series_Basics_6h_EN.pdf) · [한국어](S02_Time_Series_Basics_6h_KR.pdf) | 38 | Prerequisite refresher, before U01 |
 | S03 | [ACF and PACF, Learned by Example](S03_ACF_PACF_Intro_EN.pdf) · [한국어](S03_ACF_PACF_Intro_KR.pdf) | 42 | U03 Part 2 — ARMA Identification |
+| S05 | [Introduction to Volatility Models: ARCH and GARCH](S05_ARCH_GARCH_Intro_EN.pdf) · [한국어](S05_ARCH_GARCH_Intro_KR.pdf) — with a [hand-calculation workbook](S05_ARCH_GARCH_Workbook_EN.pdf) · [한국어](S05_ARCH_GARCH_Workbook_KR.pdf) | 45 + 12 | U05 Part 2 — GARCH |
 
 ## What each note covers
 
@@ -38,6 +39,16 @@ checks each against a simulation, and ends with the rule — read the AR order f
 cut-off and the MA order from the ACF cut-off — a quiz, and the statsmodels code that draws
 both plots. The revised deck adds a worked derivation of the lag-2 PACF as the
 Jan–Mar correlation once Feb is known, and why an MA(1) shock leaves a residual at every lag.
+
+**S05 · Introduction to Volatility Models: ARCH and GARCH.** Why return sizes cluster even
+though returns themselves are hard to predict — volatility clustering, fat tails and the
+memory in squared returns on S&P 500 data — then the conditional variance as the modelling
+target, ARCH(1) and ARCH(q), GARCH(1,1) with its long-run level, mean reversion and k-day
+forecast, a comparison with EWMA (RiskMetrics) and stochastic volatility, and the asymmetric
+extensions (GJR, EGARCH). Written for the non-specialist track. The companion workbook
+retraces the deck's arithmetic in nine worked problems, from annualizing a 1% daily volatility
+to an LM test for ARCH effects. (S04 was refiled as the Week 4 make-up
+class below.)
 
 ## Week 4 make-up class
 
