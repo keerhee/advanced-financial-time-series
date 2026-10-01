@@ -47,7 +47,8 @@ target, ARCH(1) and ARCH(q), GARCH(1,1) with its long-run level, mean reversion 
 forecast, a comparison with EWMA (RiskMetrics) and stochastic volatility, and the asymmetric
 extensions (GJR, EGARCH). Written for the non-specialist track. The companion workbook
 retraces the deck's arithmetic in nine worked problems, from annualizing a 1% daily volatility
-to an LM test for ARCH effects. (S04 was refiled as the Week 4 make-up
+to an LM test for ARCH effects. A narrated video of the English deck (32 minutes) is on YouTube:
+https://youtu.be/CZbWuGfapRY. (S04 was refiled as the Week 4 make-up
 class below.)
 
 ## Week 4 make-up class
