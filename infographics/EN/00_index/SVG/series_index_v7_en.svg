@@ -1,0 +1,327 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1802" width="1080" height="1802" role="img" style="font-family:Noto Sans CJK KR, Noto Sans KR, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1NTU2YmQ0My05M2QwLTQwMzItYWFmNS01YWFlNzI5NTEyNWYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaI2PAG05aZfoR4tjFyo10y8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3NTBiYzQwZC0wMzZmLTQxZWQtYmNmZi02MWMxMTk3MjM0ZDlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNouVtmw+6/JepAJYBnFAuCPwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggiJ2ZFxe0gAqBRSYLVSINaJgiMBVB+hk3N20vAnJne42kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJ/tn4z8Vd6Niq3M4LAPhKoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBGo149ZnEs2Hx63yfYsXYtfwV/2A3c+iDzaTW+ZaSLmGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjkZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjU1NTZiZDQzLTkzZDAtNDAzMi1hYWY1LTVhYWU3Mjk1MTI1Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmYxYjAxYmQyLWFkMmItNDkzZi1hZGI1LWZlYWE4OTc0NTU4N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCInZkXF7SACoFFJgtVIg1omCIwFUH6GTc3bS8Ccmd7jaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggBcE5h9DrMONHdp7LEj0FsOksTFgRxvOUsgWCYtXeJDiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggbjX0UjvnOoSk/nBvjzIFYGx0lL2uKypmR24F4aEcPZx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBgLzgC5j/K8xdnNdzYAi+lYZUAvJMyI44D6JZgKWzMQ/i3TlI3Ag9ZhcofoB6T7p60BoLZ/PFVLxxFRvBHkHA4=</c2pa:manifest></metadata>
+<title>Infographic Series Index</title>
+<desc>Index of side-by-side comparison infographics, ordered by the Advanced Financial Time Series curriculum.</desc>
+<rect x="0.0" y="0.0" width="1080.0" height="1802.0" rx="0" fill="#FFFFFF" data-fill-role="canvas"/>
+<text x="540.0" y="54.0" font-size="33" font-weight="700" fill="#14345C" data-fill-role="ink" text-anchor="middle" dominant-baseline="central">Infographic Series Index</text>
+<text x="540.0" y="92.0" font-size="18" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="middle" dominant-baseline="central">Advanced Financial Time Series curriculum order · 70 sheets</text>
+<text x="540.0" y="120.0" font-size="15" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="middle" dominant-baseline="central">Univariate → Cointegration → Volatility → VAR → State Space → Bayesian</text>
+<rect x="24.0" y="150.0" width="1032.0" height="178.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#1E6FB8" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="150.0" width="1032.0" height="44.0" rx="10" fill="#1E6FB8" data-fill-role="focus"/>
+<rect x="24.0" y="182.0" width="1032.0" height="12.0" rx="0" fill="#1E6FB8" data-fill-role="focus"/>
+<text x="46.0" y="165.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Part 1 · Univariate Series and Box-Jenkins</text>
+<text x="46.0" y="184.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U1-U4 · Returns · Stationarity · ARMA · ARIMA · Seasonality</text>
+<text x="1034.0" y="172.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">8</text>
+<rect x="38.0" y="209.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="219.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U1</text>
+<text x="94.0" y="219.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Simple vs Log Returns</text>
+<path d="M38.0,234.0 L524.0,234.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="239.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="249.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U1</text>
+<text x="94.0" y="249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Normal Assumption vs Fat Tails</text>
+<path d="M38.0,264.0 L524.0,264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="269.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="279.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U2</text>
+<text x="94.0" y="279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Stationarity vs Unit Root</text>
+<path d="M38.0,294.0 L524.0,294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="299.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="309.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U2</text>
+<text x="94.0" y="309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Trend- vs Difference-Stationary</text>
+<rect x="544.0" y="209.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="219.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U3</text>
+<text x="600.0" y="219.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">AR vs MA - Two Kinds of Memory</text>
+<path d="M544.0,234.0 L1030.0,234.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="239.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="249.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U4</text>
+<text x="600.0" y="249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">ARMA vs ARIMA - What Differencing Changes</text>
+<path d="M544.0,264.0 L1030.0,264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="269.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="279.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U4</text>
+<text x="600.0" y="279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">The Box-Jenkins Procedure</text>
+<path d="M544.0,294.0 L1030.0,294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="299.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="309.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U4</text>
+<text x="600.0" y="309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Seasonal Differencing vs Deterministic Seasonality</text>
+<path d="M540.0,200.0 L540.0,320.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="344.0" width="1032.0" height="148.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#14345C" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="344.0" width="1032.0" height="44.0" rx="10" fill="#14345C" data-fill-role="focus"/>
+<rect x="24.0" y="376.0" width="1032.0" height="12.0" rx="0" fill="#14345C" data-fill-role="focus"/>
+<text x="46.0" y="359.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Part 2 · Cointegration and Error Correction</text>
+<text x="46.0" y="378.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U7 · Long-run relations · VECM · Pairs trading</text>
+<text x="1034.0" y="366.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">5</text>
+<rect x="38.0" y="403.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="413.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="94.0" y="413.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Correlation vs Cointegration</text>
+<path d="M38.0,428.0 L524.0,428.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="433.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="443.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="94.0" y="443.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Engle-Granger vs Johansen</text>
+<path d="M38.0,458.0 L524.0,458.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="463.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="473.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="94.0" y="473.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Differenced VAR vs VECM</text>
+<rect x="544.0" y="403.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="413.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="600.0" y="413.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">From Cointegration to a Pairs Trading Rule</text>
+<path d="M544.0,428.0 L1030.0,428.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="433.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="443.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="600.0" y="443.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Static Beta vs Kalman Dynamic Beta</text>
+<path d="M544.0,458.0 L1030.0,458.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<path d="M540.0,394.0 L540.0,484.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="508.0" width="1032.0" height="148.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#E8892B" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="508.0" width="1032.0" height="44.0" rx="10" fill="#E8892B" data-fill-role="focus"/>
+<rect x="24.0" y="540.0" width="1032.0" height="12.0" rx="0" fill="#E8892B" data-fill-role="focus"/>
+<text x="46.0" y="523.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Part 3 · Volatility Models</text>
+<text x="46.0" y="542.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U5 · ARCH·GARCH · SV · Realized vol · Dynamic correlation</text>
+<text x="1034.0" y="530.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">6</text>
+<rect x="38.0" y="567.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="577.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="94.0" y="577.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">ARCH vs GARCH</text>
+<path d="M38.0,592.0 L524.0,592.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="597.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="607.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="94.0" y="607.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Symmetric GARCH vs GJR·EGARCH</text>
+<path d="M38.0,622.0 L524.0,622.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="627.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="637.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="94.0" y="637.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">GARCH vs Stochastic Volatility</text>
+<rect x="544.0" y="567.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="577.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="600.0" y="577.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">GARCH vs SV - Timing Structure</text>
+<path d="M544.0,592.0 L1030.0,592.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="597.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="607.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="600.0" y="607.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">GARCH vs Realized Volatility</text>
+<path d="M544.0,622.0 L1030.0,622.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="627.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="637.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="600.0" y="637.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">CCC vs DCC - Dynamic Correlation</text>
+<path d="M540.0,558.0 L540.0,648.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="672.0" width="1032.0" height="118.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#4A5D80" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="672.0" width="1032.0" height="44.0" rx="10" fill="#4A5D80" data-fill-role="focus"/>
+<rect x="24.0" y="704.0" width="1032.0" height="12.0" rx="0" fill="#4A5D80" data-fill-role="focus"/>
+<text x="46.0" y="687.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Part 4 · VAR and Multivariate Dynamics</text>
+<text x="46.0" y="706.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U6 · VAR · DFM · IRF·FEVD</text>
+<text x="1034.0" y="694.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">4</text>
+<rect x="38.0" y="731.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="741.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="94.0" y="741.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">VAR vs Dynamic Factor Model</text>
+<path d="M38.0,756.0 L524.0,756.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="761.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="771.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="94.0" y="771.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Reduced-Form VAR vs State-Space Form</text>
+<rect x="544.0" y="731.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="741.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="600.0" y="741.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Impulse Response vs Variance Decomposition</text>
+<path d="M544.0,756.0 L1030.0,756.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="761.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="771.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="600.0" y="771.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Handling a Nonstationary VAR - Workflow</text>
+<path d="M540.0,722.0 L540.0,782.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="806.0" width="1032.0" height="358.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#2B6E8F" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="806.0" width="1032.0" height="44.0" rx="10" fill="#2B6E8F" data-fill-role="focus"/>
+<rect x="24.0" y="838.0" width="1032.0" height="12.0" rx="0" fill="#2B6E8F" data-fill-role="focus"/>
+<text x="46.0" y="821.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Part 5 · State Space and Latent States</text>
+<text x="46.0" y="840.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U8-U12 · Kalman · Nonlinear filters · Nowcasting · HMM · SDE</text>
+<text x="1034.0" y="828.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">20</text>
+<rect x="38.0" y="865.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="875.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U8</text>
+<text x="94.0" y="875.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Observation vs State Equation</text>
+<path d="M38.0,890.0 L524.0,890.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="895.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="905.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U8</text>
+<text x="94.0" y="905.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Filtering vs Smoothing</text>
+<path d="M38.0,920.0 L524.0,920.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="925.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="935.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="935.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Predict vs Update - The Kalman Gain</text>
+<path d="M38.0,950.0 L524.0,950.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="955.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="965.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="965.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Exponential Smoothing vs Kalman Filter</text>
+<path d="M38.0,980.0 L524.0,980.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="985.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="995.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="995.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Linear-Gaussian vs Nonlinear Filters</text>
+<path d="M38.0,1010.0 L524.0,1010.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1015.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1025.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1025.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Linear KF vs EKF</text>
+<path d="M38.0,1040.0 L524.0,1040.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1045.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1055.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1055.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">EKF vs UKF</text>
+<path d="M38.0,1070.0 L524.0,1070.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1075.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1085.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1085.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">UKF vs Particle Filter</text>
+<path d="M38.0,1100.0 L524.0,1100.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1105.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1115.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1115.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">SIS vs SIR - Resampling</text>
+<path d="M38.0,1130.0 L524.0,1130.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1135.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1145.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1145.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Forecasting vs Nowcasting - Information Sets</text>
+<rect x="544.0" y="865.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="875.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="600.0" y="875.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Three Problems in Nowcasting</text>
+<path d="M544.0,890.0 L1030.0,890.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="895.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="905.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="600.0" y="905.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Weekly Nowcast Updates from News</text>
+<path d="M544.0,920.0 L1030.0,920.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="925.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="935.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="600.0" y="935.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">DFM vs LSTM - Two Pillars of Nowcasting</text>
+<path d="M544.0,950.0 L1030.0,950.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="955.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="965.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="965.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Markov vs Hidden Markov</text>
+<path d="M544.0,980.0 L1030.0,980.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="985.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="995.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="995.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Continuous vs Discrete States</text>
+<path d="M544.0,1010.0 L1030.0,1010.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1015.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1025.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="1025.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Forward-Backward vs Viterbi</text>
+<path d="M544.0,1040.0 L1030.0,1040.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1045.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1055.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="1055.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Baum-Welch vs Bayesian HMM</text>
+<path d="M544.0,1070.0 L1030.0,1070.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1075.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1085.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="1085.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Rolling Window vs Markov Switching</text>
+<path d="M544.0,1100.0 L1030.0,1100.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1105.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1115.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U11</text>
+<text x="600.0" y="1115.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Brownian Motion vs OU Process</text>
+<path d="M544.0,1130.0 L1030.0,1130.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1135.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1145.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U12</text>
+<text x="600.0" y="1145.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Vasicek vs CIR - Short Rate Models</text>
+<path d="M540.0,856.0 L540.0,1156.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="1180.0" width="1032.0" height="268.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#1F6B4A" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="1180.0" width="1032.0" height="44.0" rx="10" fill="#1F6B4A" data-fill-role="focus"/>
+<rect x="24.0" y="1212.0" width="1032.0" height="12.0" rx="0" fill="#1F6B4A" data-fill-role="focus"/>
+<text x="46.0" y="1195.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Part 6 · Bayesian Financial Time Series</text>
+<text x="46.0" y="1214.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U13-U16 · Bayes · MCMC · Bayesian state space · Model selection</text>
+<text x="1034.0" y="1202.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">14</text>
+<rect x="38.0" y="1239.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1249.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Frequentist vs Bayesian</text>
+<path d="M38.0,1264.0 L524.0,1264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1269.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1279.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">OLS vs Bayesian Linear Regression</text>
+<path d="M38.0,1294.0 L524.0,1294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1299.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1309.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Ridge vs Lasso - Penalties as Priors</text>
+<path d="M38.0,1324.0 L524.0,1324.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1329.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1339.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1339.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Separate Estimation vs Hierarchical Model</text>
+<path d="M38.0,1354.0 L524.0,1354.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1359.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1369.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1369.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Conjugate Priors vs MCMC</text>
+<path d="M38.0,1384.0 L524.0,1384.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1389.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1399.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="94.0" y="1399.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Metropolis-Hastings vs Gibbs</text>
+<path d="M38.0,1414.0 L524.0,1414.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1419.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1429.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="94.0" y="1429.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Random-Walk MH vs HMC·NUTS</text>
+<rect x="544.0" y="1239.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1249.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="600.0" y="1249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">HMC vs NUTS - Trajectory Length</text>
+<path d="M544.0,1264.0 L1030.0,1264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1269.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1279.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="600.0" y="1279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Convergence Diagnostics - R-hat·ESS·Divergences</text>
+<path d="M544.0,1294.0 L1030.0,1294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1299.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1309.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U15</text>
+<text x="600.0" y="1309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">A Map of State-Space Models</text>
+<path d="M544.0,1324.0 L1030.0,1324.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1329.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1339.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U15</text>
+<text x="600.0" y="1339.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Four State-Space Applications - DFA·TVP·SV·Switching</text>
+<path d="M544.0,1354.0 L1030.0,1354.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1359.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1369.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U16</text>
+<text x="600.0" y="1369.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Posterior Predictive Checks vs WAIC·LOO</text>
+<path d="M544.0,1384.0 L1030.0,1384.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1389.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1399.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U16</text>
+<text x="600.0" y="1399.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">In-Sample Fit vs Out-of-Sample Forecasting</text>
+<path d="M544.0,1414.0 L1030.0,1414.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1419.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1429.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U16</text>
+<text x="600.0" y="1429.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Point vs Density Forecasts</text>
+<path d="M540.0,1230.0 L540.0,1440.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="1464.0" width="1032.0" height="268.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#7A4BA8" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="1464.0" width="1032.0" height="44.0" rx="10" fill="#7A4BA8" data-fill-role="focus"/>
+<rect x="24.0" y="1496.0" width="1032.0" height="12.0" rx="0" fill="#7A4BA8" data-fill-role="focus"/>
+<text x="46.0" y="1479.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Supplement · Deep Learning for Time Series</text>
+<text x="46.0" y="1498.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Supplementary · Recent developments and practical judgment</text>
+<text x="1034.0" y="1486.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">13</text>
+<rect x="38.0" y="1523.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1533.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">Map</text>
+<text x="94.0" y="1533.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Deep Learning for Time Series 2026 - A Map</text>
+<path d="M38.0,1548.0 L524.0,1548.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1553.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1563.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1563.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Classical Time Series vs Deep Learning</text>
+<path d="M38.0,1578.0 L524.0,1578.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1583.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1593.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1593.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">RNN·LSTM vs TCN·Transformer</text>
+<path d="M38.0,1608.0 L524.0,1608.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1613.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1623.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1623.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Local vs Global Models</text>
+<path d="M38.0,1638.0 L524.0,1638.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1643.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1653.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1653.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Deep Point vs Probabilistic Forecasts</text>
+<path d="M38.0,1668.0 L524.0,1668.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1673.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1683.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S05</text>
+<text x="94.0" y="1683.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Specialist Training vs Foundation Zero-Shot</text>
+<path d="M38.0,1698.0 L524.0,1698.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1703.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1713.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S06</text>
+<text x="94.0" y="1713.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">PatchTST vs iTransformer</text>
+<rect x="544.0" y="1523.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1533.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S07</text>
+<text x="600.0" y="1533.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">DLinear vs Transformers</text>
+<path d="M544.0,1548.0 L1030.0,1548.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1553.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1563.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S08</text>
+<text x="600.0" y="1563.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Attention vs State Space (Mamba·xLSTM)</text>
+<path d="M544.0,1578.0 L1030.0,1578.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1583.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1593.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S09</text>
+<text x="600.0" y="1593.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Chronos Tokenization vs TimesFM Patching</text>
+<path d="M544.0,1608.0 L1030.0,1608.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1613.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1623.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S10</text>
+<text x="600.0" y="1623.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Zero-Shot vs Fine-Tuning</text>
+<path d="M544.0,1638.0 L1030.0,1638.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1643.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1653.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S11</text>
+<text x="600.0" y="1653.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Diffusion·Flow vs Direct Quantiles</text>
+<path d="M544.0,1668.0 L1030.0,1668.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1673.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1683.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S12</text>
+<text x="600.0" y="1683.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Benchmarks vs Real Backtests</text>
+<path d="M544.0,1698.0 L1030.0,1698.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<path d="M540.0,1514.0 L540.0,1724.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<text x="24.0" y="1768.0" font-size="13" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="start" dominant-baseline="central">Unit tags follow the course curriculum (16 units, 4 modules): U9 covers the Kalman deep dive and nowcasting, U15 the Bayesian state space.</text>
+<text x="24.0" y="1788.0" font-size="13" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="start" dominant-baseline="central">All 16 curriculum units are covered · every sheet ships as PNG (2160px) and editable SVG</text>
+</svg>

@@ -1,0 +1,327 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1802" width="1080" height="1802" role="img" style="font-family:Noto Sans CJK KR, Noto Sans KR, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphMWE1ZjIzNy04MGVlLTRhMDAtYjY1MC00MWMyYjkzYThiYjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaG8GOFi88Jr4AD6b5KoWWEQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphMjJhOTRiZS0yMzRlLTRhODktOWFhYS03NDQzZTMzYTdjMjlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoK61QAwKpVwN9Wa3f/n+ViwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg5P29PvfDmz2ZCx3iGfe1YJRStR0vpziGcW8mS0WnU6+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEtjq+4DD9/5U9ki2xvU4KgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBoQ9cYSfVeWyc4wEKO94kem4/lQ/o23yZGeMXDGdGg6WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjkZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmExYTVmMjM3LTgwZWUtNGEwMC1iNjUwLTQxYzJiOTNhOGJiMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNhNmQ5NjEwLTc0YWMtNDBjYi1iYzhmLWRlMzk5YTA2MDM2YnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDk/b0+98ObPZkLHeIZ97VglFK1HS+nOIZxbyZLRadTr6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggGnM/HqarMS2buM4tk+5DsVe7Vuyc4B6yOI74qLijJK6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgglE6ldm8gyrLvCli2NG7QeBL1ZkzDGXGF4pM8DOeJRj50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJXmLKcJbd8cdMrKaYBN9Enl4LC9a/bioxJTo2///xqpVnuj87wSc0FAJA8jsZkWY8GTFsv62H19Py4uVqrSAOI=</c2pa:manifest></metadata>
+<title>인포그래픽 시리즈 인덱스 — 강의 커리큘럼 순서</title>
+<desc>Advanced Financial Time Series 16유닛 커리큘럼 순서에 맞춰 배열한 53장의 좌우 대비형 인포그래픽 목록.</desc>
+<rect x="0.0" y="0.0" width="1080.0" height="1802.0" rx="0" fill="#FFFFFF" data-fill-role="canvas"/>
+<text x="540.0" y="54.0" font-size="33" font-weight="700" fill="#14345C" data-fill-role="ink" text-anchor="middle" dominant-baseline="central">인포그래픽 시리즈 인덱스</text>
+<text x="540.0" y="92.0" font-size="18" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="middle" dominant-baseline="central">Advanced Financial Time Series 커리큘럼 순서 · 전체 70장</text>
+<text x="540.0" y="120.0" font-size="15" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="middle" dominant-baseline="central">단변량·Box-Jenkins → 공적분·ECM → 변동성 → VAR → 상태공간 → 베이지안</text>
+<rect x="24.0" y="150.0" width="1032.0" height="178.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#1E6FB8" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="150.0" width="1032.0" height="44.0" rx="10" fill="#1E6FB8" data-fill-role="focus"/>
+<rect x="24.0" y="182.0" width="1032.0" height="12.0" rx="0" fill="#1E6FB8" data-fill-role="focus"/>
+<text x="46.0" y="165.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">1부 · 단변량 시계열과 Box-Jenkins</text>
+<text x="46.0" y="184.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U1–U4 · 수익률 · 정상성 · ARMA · ARIMA · 계절</text>
+<text x="1034.0" y="172.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">8장</text>
+<rect x="38.0" y="209.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="219.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U1</text>
+<text x="94.0" y="219.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">단순수익률 vs 로그수익률</text>
+<path d="M38.0,234.0 L524.0,234.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="239.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="249.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U1</text>
+<text x="94.0" y="249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">정규분포 가정 vs 팻테일</text>
+<path d="M38.0,264.0 L524.0,264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="269.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="279.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U2</text>
+<text x="94.0" y="279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">정상성 vs 비정상성(단위근)</text>
+<path d="M38.0,294.0 L524.0,294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="299.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="309.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U2</text>
+<text x="94.0" y="309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">추세정상 vs 차분정상</text>
+<rect x="544.0" y="209.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="219.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U3</text>
+<text x="600.0" y="219.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">AR vs MA — 기억의 형태</text>
+<path d="M544.0,234.0 L1030.0,234.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="239.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="249.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U4</text>
+<text x="600.0" y="249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">ARMA vs ARIMA — 차분이 바꾸는 것</text>
+<path d="M544.0,264.0 L1030.0,264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="269.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="279.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U4</text>
+<text x="600.0" y="279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Box-Jenkins 절차도</text>
+<path d="M544.0,294.0 L1030.0,294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="299.0" width="44.0" height="20.0" rx="10" fill="#DCEBF8" data-fill-role="surface-tint" stroke="#9FC4E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="309.0" font-size="11" font-weight="700" fill="#10395F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U4</text>
+<text x="600.0" y="309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">계절 차분 vs 결정적 계절항</text>
+<path d="M540.0,200.0 L540.0,320.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="344.0" width="1032.0" height="148.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#14345C" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="344.0" width="1032.0" height="44.0" rx="10" fill="#14345C" data-fill-role="focus"/>
+<rect x="24.0" y="376.0" width="1032.0" height="12.0" rx="0" fill="#14345C" data-fill-role="focus"/>
+<text x="46.0" y="359.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">2부 · 공적분과 오차수정</text>
+<text x="46.0" y="378.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U7 · 장기관계 · VECM · 페어트레이딩</text>
+<text x="1034.0" y="366.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">5장</text>
+<rect x="38.0" y="403.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="413.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="94.0" y="413.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">상관 vs 공적분</text>
+<path d="M38.0,428.0 L524.0,428.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="433.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="443.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="94.0" y="443.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Engle-Granger vs Johansen</text>
+<path d="M38.0,458.0 L524.0,458.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="463.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="473.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="94.0" y="473.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">차분 VAR vs VECM</text>
+<rect x="544.0" y="403.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="413.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="600.0" y="413.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">공적분에서 페어트레이딩 규칙으로</text>
+<path d="M544.0,428.0 L1030.0,428.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="433.0" width="44.0" height="20.0" rx="10" fill="#EAF0F7" data-fill-role="surface-tint" stroke="#C3D2E6" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="443.0" font-size="11" font-weight="700" fill="#14345C" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U7</text>
+<text x="600.0" y="443.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">정적 β vs 칼만 동적 β</text>
+<path d="M544.0,458.0 L1030.0,458.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<path d="M540.0,394.0 L540.0,484.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="508.0" width="1032.0" height="148.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#E8892B" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="508.0" width="1032.0" height="44.0" rx="10" fill="#E8892B" data-fill-role="focus"/>
+<rect x="24.0" y="540.0" width="1032.0" height="12.0" rx="0" fill="#E8892B" data-fill-role="focus"/>
+<text x="46.0" y="523.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">3부 · 변동성 모형</text>
+<text x="46.0" y="542.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U5 · ARCH·GARCH · SV · 실현변동성 · 다변량 상관</text>
+<text x="1034.0" y="530.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">6장</text>
+<rect x="38.0" y="567.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="577.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="94.0" y="577.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">ARCH vs GARCH</text>
+<path d="M38.0,592.0 L524.0,592.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="597.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="607.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="94.0" y="607.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">대칭 GARCH vs GJR·EGARCH</text>
+<path d="M38.0,622.0 L524.0,622.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="627.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="637.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="94.0" y="637.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">GARCH vs 확률변동성(SV)</text>
+<rect x="544.0" y="567.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="577.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="600.0" y="577.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">GARCH vs SV — 시점 구조(타임라인)</text>
+<path d="M544.0,592.0 L1030.0,592.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="597.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="607.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="600.0" y="607.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">GARCH vs 실현변동성(RV)</text>
+<path d="M544.0,622.0 L1030.0,622.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="627.0" width="44.0" height="20.0" rx="10" fill="#FDEBD3" data-fill-role="surface-tint" stroke="#F0C48E" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="637.0" font-size="11" font-weight="700" fill="#8A4A06" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U5</text>
+<text x="600.0" y="637.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">CCC vs DCC — 동적 상관</text>
+<path d="M540.0,558.0 L540.0,648.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="672.0" width="1032.0" height="118.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#4A5D80" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="672.0" width="1032.0" height="44.0" rx="10" fill="#4A5D80" data-fill-role="focus"/>
+<rect x="24.0" y="704.0" width="1032.0" height="12.0" rx="0" fill="#4A5D80" data-fill-role="focus"/>
+<text x="46.0" y="687.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">4부 · VAR과 다변량 동학</text>
+<text x="46.0" y="706.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U6 · VAR · DFM · IRF·FEVD</text>
+<text x="1034.0" y="694.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">4장</text>
+<rect x="38.0" y="731.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="741.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="94.0" y="741.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">VAR vs 동적요인모형(DFM)</text>
+<path d="M38.0,756.0 L524.0,756.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="761.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="771.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="94.0" y="771.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">축약형 VAR vs 상태공간 표현</text>
+<rect x="544.0" y="731.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="741.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="600.0" y="741.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">충격반응함수 vs 분산분해</text>
+<path d="M544.0,756.0 L1030.0,756.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="761.0" width="44.0" height="20.0" rx="10" fill="#E8ECF3" data-fill-role="surface-tint" stroke="#C2CCDC" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="771.0" font-size="11" font-weight="700" fill="#2B3B57" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U6</text>
+<text x="600.0" y="771.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">비정상 VAR 처리 절차도</text>
+<path d="M540.0,722.0 L540.0,782.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="806.0" width="1032.0" height="358.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#2B6E8F" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="806.0" width="1032.0" height="44.0" rx="10" fill="#2B6E8F" data-fill-role="focus"/>
+<rect x="24.0" y="838.0" width="1032.0" height="12.0" rx="0" fill="#2B6E8F" data-fill-role="focus"/>
+<text x="46.0" y="821.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">5부 · 상태공간과 잠재상태</text>
+<text x="46.0" y="840.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U8–U12 · 칼만 · 비선형 필터 · 나우캐스팅 · HMM · SDE</text>
+<text x="1034.0" y="828.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">20장</text>
+<rect x="38.0" y="865.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="875.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U8</text>
+<text x="94.0" y="875.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">관측방정식 vs 상태방정식</text>
+<path d="M38.0,890.0 L524.0,890.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="895.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="905.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U8</text>
+<text x="94.0" y="905.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">필터링 vs 스무딩</text>
+<path d="M38.0,920.0 L524.0,920.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="925.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="935.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="935.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">예측 vs 갱신 — 칼만 게인</text>
+<path d="M38.0,950.0 L524.0,950.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="955.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="965.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="965.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">지수평활·이동평균 vs 칼만</text>
+<path d="M38.0,980.0 L524.0,980.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="985.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="995.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="995.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">선형·가우시안 vs 비선형 필터</text>
+<path d="M38.0,1010.0 L524.0,1010.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1015.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1025.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1025.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">선형 KF vs EKF</text>
+<path d="M38.0,1040.0 L524.0,1040.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1045.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1055.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1055.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">EKF vs UKF</text>
+<path d="M38.0,1070.0 L524.0,1070.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1075.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1085.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1085.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">UKF vs 입자필터</text>
+<path d="M38.0,1100.0 L524.0,1100.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1105.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1115.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1115.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">SIS vs SIR — 재표집</text>
+<path d="M38.0,1130.0 L524.0,1130.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1135.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1145.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="94.0" y="1145.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">예측 vs 나우캐스팅 — 정보집합</text>
+<rect x="544.0" y="865.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="875.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="600.0" y="875.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">나우캐스팅의 세 가지 문제</text>
+<path d="M544.0,890.0 L1030.0,890.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="895.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="905.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="600.0" y="905.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">뉴스로 갱신하는 주간 나우캐스트</text>
+<path d="M544.0,920.0 L1030.0,920.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="925.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="935.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U9</text>
+<text x="600.0" y="935.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">DFM vs LSTM — 나우캐스팅의 두 축</text>
+<path d="M544.0,950.0 L1030.0,950.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="955.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="965.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="965.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">마르코프 vs 은닉 마르코프</text>
+<path d="M544.0,980.0 L1030.0,980.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="985.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="995.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="995.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">연속 상태 vs 이산 상태</text>
+<path d="M544.0,1010.0 L1030.0,1010.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1015.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1025.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="1025.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">전향-후향 vs 비터비</text>
+<path d="M544.0,1040.0 L1030.0,1040.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1045.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1055.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="1055.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Baum-Welch vs 베이지안</text>
+<path d="M544.0,1070.0 L1030.0,1070.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1075.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1085.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U10</text>
+<text x="600.0" y="1085.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">롤링 윈도우 vs 마르코프 스위칭</text>
+<path d="M544.0,1100.0 L1030.0,1100.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1105.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1115.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U11</text>
+<text x="600.0" y="1115.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">브라운 운동 vs OU 과정</text>
+<path d="M544.0,1130.0 L1030.0,1130.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1135.0" width="44.0" height="20.0" rx="10" fill="#E4F0F5" data-fill-role="surface-tint" stroke="#B4D4E1" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1145.0" font-size="11" font-weight="700" fill="#1B4759" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U12</text>
+<text x="600.0" y="1145.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Vasicek vs CIR — 단기금리</text>
+<path d="M540.0,856.0 L540.0,1156.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="1180.0" width="1032.0" height="268.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#1F6B4A" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="1180.0" width="1032.0" height="44.0" rx="10" fill="#1F6B4A" data-fill-role="focus"/>
+<rect x="24.0" y="1212.0" width="1032.0" height="12.0" rx="0" fill="#1F6B4A" data-fill-role="focus"/>
+<text x="46.0" y="1195.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">6부 · 베이지안 금융 시계열</text>
+<text x="46.0" y="1214.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">U13–U16 · 베이즈 · MCMC · 베이지안 상태공간 · 모형 선택</text>
+<text x="1034.0" y="1202.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">14장</text>
+<rect x="38.0" y="1239.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1249.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">빈도주의 vs 베이지안</text>
+<path d="M38.0,1264.0 L524.0,1264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1269.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1279.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">OLS vs 베이지안 선형회귀</text>
+<path d="M38.0,1294.0 L524.0,1294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1299.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1309.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">릿지 vs 라쏘 — 벌점은 사전분포</text>
+<path d="M38.0,1324.0 L524.0,1324.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1329.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1339.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1339.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">개별 추정 vs 계층모형</text>
+<path d="M38.0,1354.0 L524.0,1354.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1359.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1369.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U13</text>
+<text x="94.0" y="1369.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">켤레 사전 vs MCMC</text>
+<path d="M38.0,1384.0 L524.0,1384.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1389.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1399.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="94.0" y="1399.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Metropolis-Hastings vs Gibbs</text>
+<path d="M38.0,1414.0 L524.0,1414.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1419.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1429.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="94.0" y="1429.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Random-walk MH vs HMC·NUTS</text>
+<rect x="544.0" y="1239.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1249.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="600.0" y="1249.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">HMC vs NUTS (궤적 길이)</text>
+<path d="M544.0,1264.0 L1030.0,1264.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1269.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1279.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U14</text>
+<text x="600.0" y="1279.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">수렴 진단 — R-hat·ESS·발산</text>
+<path d="M544.0,1294.0 L1030.0,1294.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1299.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1309.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U15</text>
+<text x="600.0" y="1309.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">상태공간 모형의 지도 (분류표)</text>
+<path d="M544.0,1324.0 L1030.0,1324.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1329.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1339.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U15</text>
+<text x="600.0" y="1339.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">상태공간 응용 4선 — DFA·TVP·SV·전환</text>
+<path d="M544.0,1354.0 L1030.0,1354.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1359.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1369.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U16</text>
+<text x="600.0" y="1369.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">사후예측검정 vs WAIC·LOO</text>
+<path d="M544.0,1384.0 L1030.0,1384.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1389.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1399.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U16</text>
+<text x="600.0" y="1399.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">표본내 적합 vs 표본외 예측</text>
+<path d="M544.0,1414.0 L1030.0,1414.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1419.0" width="44.0" height="20.0" rx="10" fill="#EAF5EF" data-fill-role="surface-tint" stroke="#BFE0CE" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1429.0" font-size="11" font-weight="700" fill="#14512F" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">U16</text>
+<text x="600.0" y="1429.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">점예측 vs 밀도예측</text>
+<path d="M540.0,1230.0 L540.0,1440.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="24.0" y="1464.0" width="1032.0" height="268.0" rx="10" fill="#FFFFFF" data-fill-role="surface" stroke="#7A4BA8" data-stroke-role="edge-line" stroke-width="1.4"/>
+<rect x="24.0" y="1464.0" width="1032.0" height="44.0" rx="10" fill="#7A4BA8" data-fill-role="focus"/>
+<rect x="24.0" y="1496.0" width="1032.0" height="12.0" rx="0" fill="#7A4BA8" data-fill-role="focus"/>
+<text x="46.0" y="1479.0" font-size="17" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">보충 · 딥러닝 시계열</text>
+<text x="46.0" y="1498.0" font-size="12" font-weight="400" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="start" dominant-baseline="central">Supplementary · 최신 동향과 실무 판단 기준</text>
+<text x="1034.0" y="1486.0" font-size="14" font-weight="700" fill="#FFFFFF" data-fill-role="on-focus" text-anchor="end" dominant-baseline="central">13장</text>
+<rect x="38.0" y="1523.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1533.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">지도</text>
+<text x="94.0" y="1533.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">딥러닝 시계열 2026 — 기법 지도</text>
+<path d="M38.0,1548.0 L524.0,1548.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1553.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1563.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1563.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">고전 시계열 vs 딥러닝</text>
+<path d="M38.0,1578.0 L524.0,1578.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1583.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1593.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1593.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">RNN·LSTM vs TCN·Transformer</text>
+<path d="M38.0,1608.0 L524.0,1608.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1613.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1623.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1623.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">계열별 모형 vs 글로벌 모형</text>
+<path d="M38.0,1638.0 L524.0,1638.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1643.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1653.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S</text>
+<text x="94.0" y="1653.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">딥러닝 점예측 vs 확률 예측</text>
+<path d="M38.0,1668.0 L524.0,1668.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1673.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1683.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S05</text>
+<text x="94.0" y="1683.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">특화 학습 vs 파운데이션 제로샷</text>
+<path d="M38.0,1698.0 L524.0,1698.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="38.0" y="1703.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="60.0" y="1713.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S06</text>
+<text x="94.0" y="1713.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">PatchTST vs iTransformer</text>
+<rect x="544.0" y="1523.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1533.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S07</text>
+<text x="600.0" y="1533.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">DLinear vs 트랜스포머</text>
+<path d="M544.0,1548.0 L1030.0,1548.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1553.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1563.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S08</text>
+<text x="600.0" y="1563.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">어텐션 vs 상태공간(Mamba·xLSTM)</text>
+<path d="M544.0,1578.0 L1030.0,1578.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1583.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1593.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S09</text>
+<text x="600.0" y="1593.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Chronos 토큰화 vs TimesFM 패치</text>
+<path d="M544.0,1608.0 L1030.0,1608.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1613.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1623.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S10</text>
+<text x="600.0" y="1623.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">제로샷 vs 미세조정</text>
+<path d="M544.0,1638.0 L1030.0,1638.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1643.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1653.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S11</text>
+<text x="600.0" y="1653.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">Diffusion·Flow vs 분위수 출력</text>
+<path d="M544.0,1668.0 L1030.0,1668.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<rect x="544.0" y="1673.0" width="44.0" height="20.0" rx="10" fill="#EFE7F7" data-fill-role="surface-tint" stroke="#CDB6E4" data-stroke-role="rule" stroke-width="1.4"/>
+<text x="566.0" y="1683.0" font-size="11" font-weight="700" fill="#4B2A6B" data-fill-role="edge-ink" text-anchor="middle" dominant-baseline="central">S12</text>
+<text x="600.0" y="1683.0" font-size="13.5" font-weight="400" fill="#14345C" data-fill-role="ink" text-anchor="start" dominant-baseline="central">벤치마크 vs 실전 백테스트</text>
+<path d="M544.0,1698.0 L1030.0,1698.0" stroke="#E7ECF2" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<path d="M540.0,1514.0 L540.0,1724.0" stroke="#F0F3F7" data-stroke-role="rule" stroke-width="1" fill="none"/>
+<text x="24.0" y="1768.0" font-size="13" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="start" dominant-baseline="central">유닛 번호는 강의 커리큘럼(16유닛 · 4모듈)의 유닛이다 — U9는 칼만 심화와 나우캐스팅, U15는 베이지안 상태공간에 대응한다.</text>
+<text x="24.0" y="1788.0" font-size="13" font-weight="400" fill="#5B6B7C" data-fill-role="muted" text-anchor="start" dominant-baseline="central">커리큘럼 16유닛의 빈자리는 모두 채워졌다 · 모든 장은 PNG(2160px)와 편집용 SVG 제공</text>
+</svg>
