@@ -15,7 +15,7 @@ New notes are added as questions come in, numbered in the order they were writte
 | S01 | [Fat Tails and Power Laws](S01_Fat_Tails_and_Power_Laws_EN.pdf) · [한국어](S01_Fat_Tails_and_Power_Laws_KR.pdf) | 18 | U01 Part 2 — Stylized Facts |
 | S02 | [Time Series Basics in 6 Hours](S02_Time_Series_Basics_6h_EN.pdf) · [한국어](S02_Time_Series_Basics_6h_KR.pdf) | 38 | Prerequisite refresher, before U01 |
 | S03 | [ACF and PACF, Learned by Example](S03_ACF_PACF_Intro_EN.pdf) · [한국어](S03_ACF_PACF_Intro_KR.pdf) | 42 | U03 Part 2 — ARMA Identification |
-| S05 | [Introduction to Volatility Models: ARCH and GARCH](S05_ARCH_GARCH_Intro_EN.pdf) · [한국어](S05_ARCH_GARCH_Intro_KR.pdf) — with a [hand-calculation workbook](S05_ARCH_GARCH_Workbook_EN.pdf) · [한국어](S05_ARCH_GARCH_Workbook_KR.pdf) | 32 + 12 | U05 Part 2 — GARCH |
+| S05 | [Introduction to Volatility Models: ARCH and GARCH](S05_ARCH_GARCH_Intro_EN.pdf) · [한국어](S05_ARCH_GARCH_Intro_KR.pdf) — with a [hand-calculation workbook](S05_ARCH_GARCH_Workbook_EN.pdf) · [한국어](S05_ARCH_GARCH_Workbook_KR.pdf) | 32 + 8 | U05 Part 2 — GARCH |
 
 ## What each note covers
 
@@ -46,8 +46,8 @@ memory in squared returns on S&P 500 data — then ARCH(1) and ARCH(q), GARCH(1,
 long-run level and half-life, a comparison with EWMA (RiskMetrics) and stochastic volatility,
 and the asymmetric extensions (GJR, EGARCH, IGARCH). Written for the non-specialist track:
 this beginner edition (32 slides, revised 2026-10-10) leaves out the forecast formulas,
-estimation and testing. The companion workbook retraces the arithmetic in nine worked
-problems, from annualizing a 1% daily volatility to an LM test for ARCH effects. A narrated
+estimation and testing. The companion workbook retraces the arithmetic in five worked
+problems, from annualizing a 1% daily volatility to one step of stochastic volatility. A narrated
 video of the English deck (21 minutes) is on YouTube: https://youtu.be/qytxtM-nDOI. (S04 was refiled as the Week 4 make-up
 class below.)
 

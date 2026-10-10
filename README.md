@@ -12,7 +12,7 @@ the multivariate world (VAR), state space (Kalman, HMM) and stochastic processes
 Bayesian inference (MCMC). Every unit runs in three parts — theory, deep dive, practice —
 and every part connects directly to code and market data.
 
-**97 PDFs · 2,291 slides.** 48 lecture decks, 48 practice decks, and the syllabus —
+**97 PDFs · 2,283 slides.** 48 lecture decks, 48 practice decks, and the syllabus —
 one PDF per deck, matching the three-part shape of each unit. **Only PDFs, code and Markdown are tracked here** — the editable
 PPTX sources are excluded by `.gitignore`, since a binary rewrites its whole blob into
 history on every save.
