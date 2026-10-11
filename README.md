@@ -28,6 +28,7 @@ history on every save.
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `midterm/` | [Midterm](midterm/) — the Weeks 2–5 exam, its answer key with worked solutions, and a cheat sheet for review |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, and the Week 6–7 cheat sheets, in English and Korean |
+| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 5–7: a basic deck, a formula cheat sheet and a hand-calculation workbook, in English and Korean |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
 | `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, then a four-part pairs-trading series, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
@@ -51,6 +52,20 @@ they answer arrive in both languages. Special lectures follow the same pattern w
 numbers — `SL01_Cointegration_EG_Johansen_ECM_EN.pdf`.
 
 ---
+
+## In-class decks
+
+The decks used in the face-to-face class (`lecture_sd/`). Each comes as an English and a Korean PDF; the Korean deck is the original and the English one is a translation of it, charts included.
+
+| Deck | Week | PDF | Slides |
+|---|---|---|---|
+| ARCH and GARCH Models | Week 5 | [EN](lecture_sd/W05_ARCH_GARCH_EN.pdf) · [KR](lecture_sd/W05_ARCH_GARCH_KR.pdf) | 31 |
+| VAR Models: Basics | Week 6 | [EN](lecture_sd/W06_VAR_Basic_EN.pdf) · [KR](lecture_sd/W06_VAR_Basic_KR.pdf) | 52 |
+| VAR Key Formulas — Cheat Sheet | Week 6 | [EN](lecture_sd/W06_VAR_Cheat_Sheet_EN.pdf) · [KR](lecture_sd/W06_VAR_Cheat_Sheet_KR.pdf) | 32 |
+| IRF and FEVD Workbook | Week 6 | [EN](lecture_sd/W06_VAR_IRF_FEVD_Workbook_EN.pdf) · [KR](lecture_sd/W06_VAR_IRF_FEVD_Workbook_KR.pdf) | 17 |
+| Cointegration & ECM Basics | Week 7 | [EN](lecture_sd/W07_Cointegration_Basic_EN.pdf) · [KR](lecture_sd/W07_Cointegration_Basic_KR.pdf) | 40 |
+| Cointegration & ECM — Formula Cheat Sheet | Week 7 | [EN](lecture_sd/W07_Cointegration_Cheat_Sheet_EN.pdf) · [KR](lecture_sd/W07_Cointegration_Cheat_Sheet_KR.pdf) | 33 |
+| Five-Asset Cointegration Workbook | Week 7 | [EN](lecture_sd/W07_Cointegration_Workbook_EN.pdf) · [KR](lecture_sd/W07_Cointegration_Workbook_KR.pdf) | 11 |
 
 ## The four modules
 
