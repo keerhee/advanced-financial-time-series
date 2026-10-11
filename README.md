@@ -27,7 +27,7 @@ history on every save.
 | `course/` | Syllabus and the [curriculum map](course/curriculum_map.md) |
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `midterm/` | [Midterm](midterm/) — the Weeks 2–5 exam, its answer key with worked solutions, and a cheat sheet for review |
-| `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, and the Week 4 make-up class, in English and Korean |
+| `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, and the Week 6–7 cheat sheets, in English and Korean |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
 | `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, then a four-part pairs-trading series, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |

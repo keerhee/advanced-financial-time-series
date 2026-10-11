@@ -1,6 +1,6 @@
 # Supplementary notes
 
-Short decks written in answer to questions asked in class, and the decks of make-up classes. Each one takes a single point
+Short decks written in answer to questions asked in class, the decks of make-up classes, and weekly formula cheat sheets. Each one takes a single point
 that the main units treat quickly, and unfolds it at student pace — worked numbers,
 a figure, and a page of summary.
 
@@ -66,8 +66,33 @@ forecast bands. It lays the U02–U04 sequence out end to end before the mid-ter
 A narrated video of the English deck (44 minutes) is on YouTube:
 https://youtu.be/P0ultu9mB6E.
 
+## Weekly cheat sheets
+
+Supplementary review decks, not the main lectures: each week's key formulas, one per slide,
+with a figure and a one-line takeaway. English only.
+
+| Cheat sheet | Topic | Pages | Relates to |
+|---|---|---|---|
+| S06 · Week 6 cheat sheet | [Vector Autoregression — Key Formulas](S06_W06_VAR_Cheat_Sheet_EN.pdf) · [video](https://youtu.be/9dBGi2wqX1g) | 31 | U06 — Multivariate VAR |
+| S07 · Week 7 cheat sheet | [Cointegration and Error Correction — Key Formulas](S07_W07_Cointegration_Cheat_Sheet_EN.pdf) · [video](https://youtu.be/oul1sHxFQk8) | 29 | U07 — Cointegration and ECM |
+
+**S06 · Week 6 cheat sheet — VAR.** Three parts. The VAR model: cross terms, equation-by-equation
+OLS, stability and the unit circle, lag choice, the curse of dimensionality, forecasts and their
+bands. Granger causality: restricted versus unrestricted models, the F-test, the four outcomes,
+and false causality from a hidden common driver. Impulse responses and FEVD: orthogonalized
+shocks, the Cholesky ordering assumption, and how reordering alone moves the variance shares.
+A narrated video (21 minutes) is on YouTube: https://youtu.be/9dBGi2wqX1g.
+
+**S07 · Week 7 cheat sheet — Cointegration.** Three parts. Cointegration: I(1) and I(0), a stationary
+mix of two random walks, the shared trend, and spurious versus real regressions. Testing: the
+Engle-Granger two-step test with its stricter critical values, and the Johansen rank and trace
+test. Error correction and pairs trading: ECM and VECM, the half-life of a deviation, z-score
+entry and exit, and what happens when the relationship breaks. A narrated video (18 minutes) is
+on YouTube: https://youtu.be/oul1sHxFQk8.
+
 ## File names
 
 `S01_Fat_Tails_and_Power_Laws_EN.pdf` — note number, slug, language. The two languages of
 one note share a slug, so they sort next to each other. A make-up class is filed by week
-instead of by note number: `W04_Makeup_ARIMA_Foundations_EN.pdf`.
+instead of by note number: `W04_Makeup_ARIMA_Foundations_EN.pdf`. A weekly cheat sheet carries
+both, plus the label, so it is never mistaken for the main lecture: `S06_W06_VAR_Cheat_Sheet_EN.pdf`.
