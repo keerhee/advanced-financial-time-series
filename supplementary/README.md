@@ -69,25 +69,25 @@ https://youtu.be/P0ultu9mB6E.
 ## Weekly cheat sheets
 
 Supplementary review decks, not the main lectures: each week's key formulas, one per slide,
-with a figure and a one-line takeaway. English only.
+with a figure and a one-line takeaway. English and Korean, like the notes above.
 
 | Cheat sheet | Topic | Pages | Relates to |
 |---|---|---|---|
-| S06 · Week 6 cheat sheet | [Vector Autoregression — Key Formulas](S06_W06_VAR_Cheat_Sheet_EN.pdf) · [video](https://youtu.be/9dBGi2wqX1g) | 31 | U06 — Multivariate VAR |
-| S07 · Week 7 cheat sheet | [Cointegration and Error Correction — Key Formulas](S07_W07_Cointegration_Cheat_Sheet_EN.pdf) · [video](https://youtu.be/oul1sHxFQk8) | 29 | U07 — Cointegration and ECM |
+| S06 · Week 6 cheat sheet | [Vector Autoregression — Key Formulas](S06_W06_VAR_Cheat_Sheet_EN.pdf) · [한국어](S06_W06_VAR_Cheat_Sheet_KR.pdf) · [video](https://youtu.be/9dBGi2wqX1g) | 31 | U06 — Multivariate VAR |
+| S07 · Week 7 cheat sheet | [Cointegration and Error Correction — Key Formulas](S07_W07_Cointegration_Cheat_Sheet_EN.pdf) · [한국어](S07_W07_Cointegration_Cheat_Sheet_KR.pdf) · [video](https://youtu.be/oul1sHxFQk8) | 29 | U07 — Cointegration and ECM |
 
 **S06 · Week 6 cheat sheet — VAR.** Three parts. The VAR model: cross terms, equation-by-equation
 OLS, stability and the unit circle, lag choice, the curse of dimensionality, forecasts and their
 bands. Granger causality: restricted versus unrestricted models, the F-test, the four outcomes,
 and false causality from a hidden common driver. Impulse responses and FEVD: orthogonalized
 shocks, the Cholesky ordering assumption, and how reordering alone moves the variance shares.
-A narrated video (21 minutes) is on YouTube: https://youtu.be/9dBGi2wqX1g.
+A narrated video of the English deck (21 minutes) is on YouTube: https://youtu.be/9dBGi2wqX1g.
 
 **S07 · Week 7 cheat sheet — Cointegration.** Three parts. Cointegration: I(1) and I(0), a stationary
 mix of two random walks, the shared trend, and spurious versus real regressions. Testing: the
 Engle-Granger two-step test with its stricter critical values, and the Johansen rank and trace
 test. Error correction and pairs trading: ECM and VECM, the half-life of a deviation, z-score
-entry and exit, and what happens when the relationship breaks. A narrated video (18 minutes) is
+entry and exit, and what happens when the relationship breaks. A narrated video of the English deck (18 minutes) is
 on YouTube: https://youtu.be/oul1sHxFQk8.
 
 ## File names
