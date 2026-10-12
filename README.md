@@ -28,7 +28,7 @@ history on every save.
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `midterm/` | [Midterm](midterm/) — the Weeks 2–5 exam, its answer key with worked solutions, and a cheat sheet for review |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, and the Week 6–7 cheat sheets, in English and Korean |
-| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 5–7: a basic deck, a formula cheat sheet and a hand-calculation workbook, in English and Korean |
+| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–7: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
 | `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, then a four-part pairs-trading series, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
@@ -59,7 +59,10 @@ The decks used in the face-to-face class (`lecture_sd/`). Each comes as an Engli
 
 | Deck | Week | PDF | Slides |
 |---|---|---|---|
+| Seasonal ARIMA | Week 4 | [EN](lecture_sd/W04_Seasonal_ARIMA_EN.pdf) · [KR](lecture_sd/W04_Seasonal_ARIMA_KR.pdf) | 30 |
 | ARCH and GARCH Models | Week 5 | [EN](lecture_sd/W05_ARCH_GARCH_EN.pdf) · [KR](lecture_sd/W05_ARCH_GARCH_KR.pdf) | 31 |
+| GARCH vs. Stochastic Volatility | Week 5 | [EN](lecture_sd/W05_GARCH_vs_SV_EN.pdf) · [KR](lecture_sd/W05_GARCH_vs_SV_KR.pdf) | 14 |
+| GARCH vs. EWMA | Week 5 | [EN](lecture_sd/W05_GARCH_vs_EWMA_EN.pdf) · [KR](lecture_sd/W05_GARCH_vs_EWMA_KR.pdf) | 14 |
 | VAR Models: Basics | Week 6 | [EN](lecture_sd/W06_VAR_Basic_EN.pdf) · [KR](lecture_sd/W06_VAR_Basic_KR.pdf) | 52 |
 | VAR Key Formulas — Cheat Sheet | Week 6 | [EN](lecture_sd/W06_VAR_Cheat_Sheet_EN.pdf) · [KR](lecture_sd/W06_VAR_Cheat_Sheet_KR.pdf) | 32 |
 | IRF and FEVD Workbook | Week 6 | [EN](lecture_sd/W06_VAR_IRF_FEVD_Workbook_EN.pdf) · [KR](lecture_sd/W06_VAR_IRF_FEVD_Workbook_KR.pdf) | 17 |
