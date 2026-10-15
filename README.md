@@ -28,7 +28,7 @@ history on every save.
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `midterm/` | [Midterm](midterm/) — the Weeks 2–5 exam, its answer key with worked solutions, and a cheat sheet for review |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, and the Week 6–7 cheat sheets, in English and Korean |
-| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–7: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
+| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–8: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
 | `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, then a four-part pairs-trading series, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
@@ -55,7 +55,7 @@ numbers — `SL01_Cointegration_EG_Johansen_ECM_EN.pdf`.
 
 ## In-class decks
 
-The decks used in the face-to-face class (`lecture_sd/`). Each comes as an English and a Korean PDF; the Korean deck is the original and the English one is a translation of it, charts included.
+The decks used in the face-to-face class (`lecture_sd/`). Each comes as an English and a Korean PDF; the Korean deck is the original and the English one is a translation of it, charts included. The Week 8 decks go the other way: English original, Korean translation.
 
 | Deck | Week | PDF | Slides |
 |---|---|---|---|
@@ -69,6 +69,8 @@ The decks used in the face-to-face class (`lecture_sd/`). Each comes as an Engli
 | Cointegration & ECM Basics | Week 7 | [EN](lecture_sd/W07_Cointegration_Basic_EN.pdf) · [KR](lecture_sd/W07_Cointegration_Basic_KR.pdf) | 40 |
 | Cointegration & ECM — Formula Cheat Sheet | Week 7 | [EN](lecture_sd/W07_Cointegration_Cheat_Sheet_EN.pdf) · [KR](lecture_sd/W07_Cointegration_Cheat_Sheet_KR.pdf) | 33 |
 | Five-Asset Cointegration Workbook | Week 7 | [EN](lecture_sd/W07_Cointegration_Workbook_EN.pdf) · [KR](lecture_sd/W07_Cointegration_Workbook_KR.pdf) | 11 |
+| The Box–Jenkins Procedure | Week 8 | [EN](lecture_sd/W08_Box_Jenkins_Procedure_EN.pdf) · [KR](lecture_sd/W08_Box_Jenkins_Procedure_KR.pdf) | 17 |
+| GARCH Value at Risk — A Beginner's Guide | Week 8 | [EN](lecture_sd/W08_GARCH_VaR_EN.pdf) · [KR](lecture_sd/W08_GARCH_VaR_KR.pdf) | 16 |
 
 ## The four modules
 
