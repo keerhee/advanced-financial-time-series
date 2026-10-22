@@ -28,7 +28,7 @@ history on every save.
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `midterm/` | [Midterm](midterm/) — the Weeks 2–5 exam, its answer key with worked solutions, and a cheat sheet for review |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, and the Week 6–7 cheat sheets, in English and Korean |
-| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–8: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
+| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–9: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
 | `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, then a four-part pairs-trading series, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
@@ -71,6 +71,14 @@ The decks used in the face-to-face class (`lecture_sd/`). Each comes as an Engli
 | Five-Asset Cointegration Workbook | Week 7 | [EN](lecture_sd/W07_Cointegration_Workbook_EN.pdf) · [KR](lecture_sd/W07_Cointegration_Workbook_KR.pdf) | 11 |
 | The Box–Jenkins Procedure | Week 8 | [EN](lecture_sd/W08_Box_Jenkins_Procedure_EN.pdf) · [KR](lecture_sd/W08_Box_Jenkins_Procedure_KR.pdf) | 17 |
 | GARCH Value at Risk — A Beginner's Guide | Week 8 | [EN](lecture_sd/W08_GARCH_VaR_EN.pdf) · [KR](lecture_sd/W08_GARCH_VaR_KR.pdf) | 16 |
+| Stationarity and Unit Roots | Week 9 | [EN](lecture_sd/W09_01_Stationarity_Unit_Root_EN.pdf) · [KR](lecture_sd/W09_01_Stationarity_Unit_Root_KR.pdf) | 22 |
+| The ADL Model — Lagged Effects | Week 9 | [EN](lecture_sd/W09_02_ADL_Model_EN.pdf) · [KR](lecture_sd/W09_02_ADL_Model_KR.pdf) | 21 |
+| Granger Causality — Predictive Direction | Week 9 | [EN](lecture_sd/W09_03_Granger_Causality_EN.pdf) · [KR](lecture_sd/W09_03_Granger_Causality_KR.pdf) | 22 |
+| The VAR Model — Interacting Time Series | Week 9 | [EN](lecture_sd/W09_04_VAR_Model_EN.pdf) · [KR](lecture_sd/W09_04_VAR_Model_KR.pdf) | 22 |
+| Impulse Responses and Variance Decomposition | Week 9 | [EN](lecture_sd/W09_05_IRF_FEVD_EN.pdf) · [KR](lecture_sd/W09_05_IRF_FEVD_KR.pdf) | 22 |
+| VAR and Structural VAR — Identification Matters | Week 9 | [EN](lecture_sd/W09_06_SVAR_vs_VAR_EN.pdf) · [KR](lecture_sd/W09_06_SVAR_vs_VAR_KR.pdf) | 23 |
+| Cointegration and the VECM — The Pull to Equilibrium | Week 9 | [EN](lecture_sd/W09_07_Cointegration_VECM_EN.pdf) · [KR](lecture_sd/W09_07_Cointegration_VECM_KR.pdf) | 22 |
+| Causality and Dynamics — Hand-Calculation Workbook | Week 9 | [EN](lecture_sd/W09_08_Workbook_Hand_Calculations_EN.pdf) · [KR](lecture_sd/W09_08_Workbook_Hand_Calculations_KR.pdf) | 35 |
 
 ## The four modules
 
