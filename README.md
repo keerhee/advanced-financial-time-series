@@ -93,6 +93,7 @@ The decks used in the face-to-face class (`lecture_sd/`). Each comes as an Engli
 | VAR and Structural VAR — Identification Matters | Week 9 | [EN](lecture_sd/W09_06_SVAR_vs_VAR_EN.pdf) · [KR](lecture_sd/W09_06_SVAR_vs_VAR_KR.pdf) | 23 |
 | Cointegration and the VECM — The Pull to Equilibrium | Week 9 | [EN](lecture_sd/W09_07_Cointegration_VECM_EN.pdf) · [KR](lecture_sd/W09_07_Cointegration_VECM_KR.pdf) | 22 |
 | Causality and Dynamics — Hand-Calculation Workbook | Week 9 | [EN](lecture_sd/W09_08_Workbook_Hand_Calculations_EN.pdf) · [KR](lecture_sd/W09_08_Workbook_Hand_Calculations_KR.pdf) | 35 |
+| VAR, Cholesky, IRF and FEVD — Step by Step | Week 9 | [EN](lecture_sd/W09_09_VAR_Cholesky_IRF_FEVD_EN.pdf) · [KR](lecture_sd/W09_09_VAR_Cholesky_IRF_FEVD_KR.pdf) | 48 |
 
 ## The four modules
 
