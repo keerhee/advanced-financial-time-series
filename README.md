@@ -27,7 +27,7 @@ history on every save.
 | `course/` | Syllabus and the [curriculum map](course/curriculum_map.md) |
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `midterm/` | [Midterm](midterm/) — the Weeks 2–5 exam, its answer key with worked solutions, and a cheat sheet for review |
-| `final_project/` | [Final project](final_project/) — the capstone assignment set in Week 15 and due in Week 16: a guide to the seven Claude Code projects and a pre-study primer, in English (primer also in Korean) |
+| `final_project/` | [Final project](final_project/) — the capstone assignment set in Week 15 and due in Week 16: a guide to the seven Claude Code projects and a pre-study primer, in English and Korean |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, and the Week 6–7 cheat sheets, in English and Korean |
 | `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–9: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
@@ -60,7 +60,7 @@ Set in teaching week 15 (unit 16, part 3) and due in week 16 with the final exam
 
 | Deck | PDF | Slides |
 |---|---|---|
-| Final Project Guide — seven capstone projects, built with Claude Code | [EN](final_project/Final_Project_Guide_EN.pdf) | 39 |
+| Final Project Guide — seven capstone projects, built with Claude Code | [EN](final_project/Final_Project_Guide_EN.pdf) · [KR](final_project/Final_Project_Guide_KR.pdf) | 39 |
 | Seven Capstone Projects — pre-study primer: what each project does and what it gains over the textbook default | [EN](final_project/Final_Project_Primer_EN.pdf) · [KR](final_project/Final_Project_Primer_KR.pdf) | 23 |
 
 Read the primer before choosing a project. Its charts use simulated data, so the patterns are cleaner than real data will be.
