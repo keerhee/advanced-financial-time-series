@@ -1,6 +1,6 @@
 # In-class decks
 
-The decks used in the face-to-face class, Weeks 4–9. English and Korean PDF for each; the Korean deck is the original and the English deck is its translation (chart labels included). Week 8 is the reverse: English original, Korean translation. Week 9 comes as a matched English and Korean set of eight decks.
+The decks used in the face-to-face class, Weeks 4–16. English and Korean PDF for each; the Korean deck is the original and the English deck is its translation (chart labels included). Week 8 is the reverse: English original, Korean translation. Week 9 comes as a matched English and Korean set of eight decks. The Week 11 HMM principles deck is filed as special lecture [SL07](../special_lectures/).
 
 | Deck | Week | PDF | Slides |
 |---|---|---|---|
@@ -25,3 +25,11 @@ The decks used in the face-to-face class, Weeks 4–9. English and Korean PDF fo
 | Cointegration and the VECM — The Pull to Equilibrium | Week 9 | [EN](W09_07_Cointegration_VECM_EN.pdf) · [KR](W09_07_Cointegration_VECM_KR.pdf) | 22 |
 | Causality and Dynamics — Hand-Calculation Workbook | Week 9 | [EN](W09_08_Workbook_Hand_Calculations_EN.pdf) · [KR](W09_08_Workbook_Hand_Calculations_KR.pdf) | 35 |
 | VAR, Cholesky, IRF and FEVD — Step by Step | Week 9 | [EN](W09_09_VAR_Cholesky_IRF_FEVD_EN.pdf) · [KR](W09_09_VAR_Cholesky_IRF_FEVD_KR.pdf) | 48 |
+| The Kalman Filter — A Basic Guide | Week 10 | [EN](W10_Kalman_Filter_Basic_EN.pdf) · [KR](W10_Kalman_Filter_Basic_KR.pdf) | 83 |
+| The Kalman Filter and Its Extensions | Week 10 | [EN](W10_Kalman_and_Extensions_EN.pdf) · [KR](W10_Kalman_and_Extensions_KR.pdf) | 27 |
+| HMMs and Market Regimes | Week 11 | [EN](W11_HMM_EN.pdf) · [KR](W11_HMM_KR.pdf) | 23 |
+| Continuous-Time Financial Models | Week 12 | [EN](W12_Continuous_Time_and_Rates_EN.pdf) · [KR](W12_Continuous_Time_and_Rates_KR.pdf) | 48 |
+| GDP Nowcasting through a Bank of Korea Paper | Week 13 | [EN](W13_BOK_Nowcasting_EN.pdf) · [KR](W13_BOK_Nowcasting_KR.pdf) | 27 |
+| Bayes and MCMC | Week 14 | [EN](W14_Bayesian_and_MCMC_EN.pdf) · [KR](W14_Bayesian_and_MCMC_KR.pdf) | 17 |
+| Deep Learning Time Series Forecasting | Week 15 | [EN](W15_Deep_TimeSeries_EN.pdf) · [KR](W15_Deep_TimeSeries_KR.pdf) | 36 |
+| Monte Carlo and Generative AI | Week 16 | [EN](W16_Generative_MonteCarlo_EN.pdf) · [KR](W16_Generative_MonteCarlo_KR.pdf) | 40 |

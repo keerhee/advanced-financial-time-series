@@ -16,6 +16,7 @@ New notes are added as questions come in, numbered in the order they were writte
 | S02 | [Time Series Basics in 6 Hours](S02_Time_Series_Basics_6h_EN.pdf) · [한국어](S02_Time_Series_Basics_6h_KR.pdf) | 38 | Prerequisite refresher, before U01 |
 | S03 | [ACF and PACF, Learned by Example](S03_ACF_PACF_Intro_EN.pdf) · [한국어](S03_ACF_PACF_Intro_KR.pdf) | 42 | U03 Part 2 — ARMA Identification |
 | S05 | [Introduction to Volatility Models: ARCH and GARCH](S05_ARCH_GARCH_Intro_EN.pdf) · [한국어](S05_ARCH_GARCH_Intro_KR.pdf) — with a [hand-calculation workbook](S05_ARCH_GARCH_Workbook_EN.pdf) · [한국어](S05_ARCH_GARCH_Workbook_KR.pdf) | 32 + 8 | U05 Part 2 — GARCH |
+| S08 · Week 9 | [Kalman Filter — The Basic Model](S08_W09_Kalman_Basics_EN.pdf) · [한국어](S08_W09_Kalman_Basics_KR.pdf) — and [Kalman Filter Applications](S08_W09_Kalman_Applications_EN.pdf) · [한국어](S08_W09_Kalman_Applications_KR.pdf) | 17 + 22 | U09 — Kalman Filter Deep Dive |
 
 ## What each note covers
 
@@ -50,6 +51,11 @@ estimation and testing. The companion workbook retraces the arithmetic in five w
 problems, from annualizing a 1% daily volatility to one step of stochastic volatility. A narrated
 video of the English deck (21 minutes) is on YouTube: https://youtu.be/qytxtM-nDOI. (S04 was refiled as the Week 4 make-up
 class below.)
+
+**S08 · Week 9 — Kalman filter basics and applications.** Two short decks. The first sets out
+the basic model: a state equation, a measurement equation, and the two steps that repeat,
+predict and update. The second keeps those equations and changes the ingredients: finding a
+hedge ratio for pairs trading, then reading the economy now through nowcasting.
 
 ## Week 4 make-up class
 
@@ -95,4 +101,5 @@ on YouTube: https://youtu.be/oul1sHxFQk8.
 `S01_Fat_Tails_and_Power_Laws_EN.pdf` — note number, slug, language. The two languages of
 one note share a slug, so they sort next to each other. A make-up class is filed by week
 instead of by note number: `W04_Makeup_ARIMA_Foundations_EN.pdf`. A weekly cheat sheet carries
-both, plus the label, so it is never mistaken for the main lecture: `S06_W06_VAR_Cheat_Sheet_EN.pdf`.
+both, plus the label, so it is never mistaken for the main lecture: `S06_W06_VAR_Cheat_Sheet_EN.pdf`. The Week 9
+Kalman notes follow the same form: `S08_W09_Kalman_Basics_EN.pdf`.

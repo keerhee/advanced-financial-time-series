@@ -28,10 +28,10 @@ history on every save.
 | `data/` | `fetch_data.py` and the [data guide](data/README.md) — the course ships no data set |
 | `midterm/` | [Midterm](midterm/) — the Weeks 2–5 exam, its answer key with worked solutions, and a cheat sheet for review |
 | `final_project/` | [Final project](final_project/) — the capstone assignment set in Week 15 and due in Week 16: a guide to the seven Claude Code projects and a pre-study primer, in English and Korean |
-| `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, and the Week 6–7 cheat sheets, in English and Korean |
-| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–9: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
+| `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, the Week 6–7 cheat sheets, and the Week 9 Kalman notes, in English and Korean |
+| `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–16: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
-| `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, then a four-part pairs-trading series, in English and Korean |
+| `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, a four-part pairs-trading series, then hidden Markov model and Kalman filter series of three lectures each, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
 
 Page counts match the source slide counts one for one. GitHub renders PDFs in the browser,
@@ -94,6 +94,14 @@ The decks used in the face-to-face class (`lecture_sd/`). Each comes as an Engli
 | Cointegration and the VECM — The Pull to Equilibrium | Week 9 | [EN](lecture_sd/W09_07_Cointegration_VECM_EN.pdf) · [KR](lecture_sd/W09_07_Cointegration_VECM_KR.pdf) | 22 |
 | Causality and Dynamics — Hand-Calculation Workbook | Week 9 | [EN](lecture_sd/W09_08_Workbook_Hand_Calculations_EN.pdf) · [KR](lecture_sd/W09_08_Workbook_Hand_Calculations_KR.pdf) | 35 |
 | VAR, Cholesky, IRF and FEVD — Step by Step | Week 9 | [EN](lecture_sd/W09_09_VAR_Cholesky_IRF_FEVD_EN.pdf) · [KR](lecture_sd/W09_09_VAR_Cholesky_IRF_FEVD_KR.pdf) | 48 |
+| The Kalman Filter — A Basic Guide | Week 10 | [EN](lecture_sd/W10_Kalman_Filter_Basic_EN.pdf) · [KR](lecture_sd/W10_Kalman_Filter_Basic_KR.pdf) | 83 |
+| The Kalman Filter and Its Extensions | Week 10 | [EN](lecture_sd/W10_Kalman_and_Extensions_EN.pdf) · [KR](lecture_sd/W10_Kalman_and_Extensions_KR.pdf) | 27 |
+| HMMs and Market Regimes | Week 11 | [EN](lecture_sd/W11_HMM_EN.pdf) · [KR](lecture_sd/W11_HMM_KR.pdf) | 23 |
+| Continuous-Time Financial Models | Week 12 | [EN](lecture_sd/W12_Continuous_Time_and_Rates_EN.pdf) · [KR](lecture_sd/W12_Continuous_Time_and_Rates_KR.pdf) | 48 |
+| GDP Nowcasting through a Bank of Korea Paper | Week 13 | [EN](lecture_sd/W13_BOK_Nowcasting_EN.pdf) · [KR](lecture_sd/W13_BOK_Nowcasting_KR.pdf) | 27 |
+| Bayes and MCMC | Week 14 | [EN](lecture_sd/W14_Bayesian_and_MCMC_EN.pdf) · [KR](lecture_sd/W14_Bayesian_and_MCMC_KR.pdf) | 17 |
+| Deep Learning Time Series Forecasting | Week 15 | [EN](lecture_sd/W15_Deep_TimeSeries_EN.pdf) · [KR](lecture_sd/W15_Deep_TimeSeries_KR.pdf) | 36 |
+| Monte Carlo and Generative AI | Week 16 | [EN](lecture_sd/W16_Generative_MonteCarlo_EN.pdf) · [KR](lecture_sd/W16_Generative_MonteCarlo_KR.pdf) | 40 |
 
 ## The four modules
 
