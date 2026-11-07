@@ -96,6 +96,8 @@ The decks used in the face-to-face class (`lecture_sd/`). Each comes as an Engli
 | VAR, Cholesky, IRF and FEVD — Step by Step | Week 9 | [EN](lecture_sd/W09_09_VAR_Cholesky_IRF_FEVD_EN.pdf) · [KR](lecture_sd/W09_09_VAR_Cholesky_IRF_FEVD_KR.pdf) | 48 |
 | The Kalman Filter — A Basic Guide | Week 10 | [EN](lecture_sd/W10_Kalman_Filter_Basic_EN.pdf) · [KR](lecture_sd/W10_Kalman_Filter_Basic_KR.pdf) | 83 |
 | The Kalman Filter and Its Extensions | Week 10 | [EN](lecture_sd/W10_Kalman_and_Extensions_EN.pdf) · [KR](lecture_sd/W10_Kalman_and_Extensions_KR.pdf) | 27 |
+| Kalman Filter and EM | Week 10 | [EN](lecture_sd/W10-1_Kalman_Filter_and_EM_EN.pdf) · [KR](lecture_sd/W10-1_Kalman_Filter_and_EM_KR.pdf) | 87 |
+| State Space Hand Calculations — Workbook | Week 10 | [EN](lecture_sd/W10-1_State_Space_Workbook_EN.pdf) · [KR](lecture_sd/W10-1_State_Space_Workbook_KR.pdf) | 9 |
 | HMMs and Market Regimes | Week 11 | [EN](lecture_sd/W11_HMM_EN.pdf) · [KR](lecture_sd/W11_HMM_KR.pdf) | 23 |
 | Continuous-Time Financial Models | Week 12 | [EN](lecture_sd/W12_Continuous_Time_and_Rates_EN.pdf) · [KR](lecture_sd/W12_Continuous_Time_and_Rates_KR.pdf) | 48 |
 | GDP Nowcasting through a Bank of Korea Paper | Week 13 | [EN](lecture_sd/W13_BOK_Nowcasting_EN.pdf) · [KR](lecture_sd/W13_BOK_Nowcasting_KR.pdf) | 27 |
