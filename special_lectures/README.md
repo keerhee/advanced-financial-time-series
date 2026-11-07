@@ -109,4 +109,4 @@ the intuition for the gain vector.
 `SL01_Cointegration_EG_Johansen_ECM_EN.pdf` — lecture number, slug, language. The two
 languages of one lecture share a slug, so they sort next to each other. Numbers follow the
 order the lectures were added; the pairs-trading series is SL03–SL06,
-the hidden Markov model series SL07–SL09, and the Kalman filter and state-space series SL10–SL12.
+and the Kalman filter and state-space series SL10–SL12.
