@@ -15,6 +15,9 @@ carry the same slides and the same numbers.
 | SL04 | [Pairs Trading in Korea — Korean Stock Pairs and KOSPI200 Cash–Futures](SL04_Pairs_Trading_in_Korea_EN.pdf) · [한국어](SL04_Pairs_Trading_in_Korea_KR.pdf) | 31 | SL03 applied to the Korean market |
 | SL05 | [Pairs Trading, Empirical Validation I — Six Tests on Real US ETF Data](SL05_Pairs_Trading_Empirical_Validation_I_EN.pdf) · [한국어](SL05_Pairs_Trading_Empirical_Validation_I_KR.pdf) | 32 | SL03 tested on real data |
 | SL06 | [Pairs Trading, Empirical Validation II — Single Stocks, Intraday Data, Pre-registered Thresholds and Korean Data](SL06_Pairs_Trading_Empirical_Validation_II_EN.pdf) · [한국어](SL06_Pairs_Trading_Empirical_Validation_II_KR.pdf) | 29 | Closes what SL05 left open; corrects SL04 with real data |
+| SL07 | [Hidden Markov Models — Principles of Evaluation, Decoding and Learning](SL07_HMM_Principles_EN.pdf) · [한국어](SL07_HMM_Principles_KR.pdf) | 65 | U10 Parts 1–2 — Markov Hidden States; Forward, Viterbi, Baum–Welch; Week 11 in-class |
+| SL08 | [Hidden Markov Models in Finance — Overview, Stock Prediction and Information-Based Trading](SL08_HMM_Overview_and_Finance_EN.pdf) · [한국어](SL08_HMM_Overview_and_Finance_KR.pdf) | 40 | U10 Part 3 — Regimes in Practice; builds on SL07 |
+| SL09 | [Hidden Markov Model Applications — From K-Means Clustering to Market Regimes and Informed Trading](SL09_HMM_Applications_EN.pdf) · [한국어](SL09_HMM_Applications_KR.pdf) | 52 | U10 Parts 2–3; SL08 with the algorithms worked step by step |
 | SL10 | [State Space Models and the Kalman Filter — From Latent States to EKF, UKF and Particle Filters](SL10_State_Space_and_Kalman_Filter_EN.pdf) · [한국어](SL10_State_Space_and_Kalman_Filter_KR.pdf) | 53 | U08 — State Space and Kalman; U09 — Kalman Filter Deep Dive |
 | SL11 | [Kalman Filter Basics and Applications — From the Update Equations to Beta Estimation and Pairs Trading](SL11_Kalman_Filter_Basics_and_Applications_EN.pdf) · [한국어](SL11_Kalman_Filter_Basics_and_Applications_KR.pdf) | 64 | U09 Parts 1–3 — Predict and Update; Kalman Gain; Pairs and Nowcasting |
 | SL12 | [Real-Time Economic Nowcasting — State Space Models, Mixed-Frequency Data, the Kalman Filter and EM](SL12_Nowcasting_with_State_Space_Models_EN.pdf) · [한국어](SL12_Nowcasting_with_State_Space_Models_KR.pdf) | 67 | U09 Part 3 — Pairs and Nowcasting; Week 13 in-class |
@@ -78,6 +81,30 @@ three markets and four frequencies, but estimating it pair by pair loses to a fi
 S10 corrects SL04: the actual common–preferred gap averages 49.1% (assumed 15%) and its
 half-life is 81 days (assumed 25), which makes those pairs untradable after borrow costs —
 teach SL04 together with S10.
+
+### The hidden Markov model series — SL07 to SL09
+
+Three lectures on regimes that are never observed directly. SL07 gives the algorithms on one
+small example; SL08 and SL09 take them to market data, SL08 as an overview and SL09 step by
+step. Their figures come from earlier lecture slides, and each deck includes a page of
+errata for what those slides print.
+
+**SL07 · Hidden Markov Models — Principles of Evaluation, Decoding and Learning.** One running
+example, a person's daily activity and the hidden weather, carried from the Markov model
+through the HMM parameters to the three problems: evaluation with the forward and backward
+algorithms, decoding with Viterbi, and learning with Baum–Welch, each worked through its
+steps. Closes with applications and discussion questions.
+
+**SL08 · Hidden Markov Models in Finance — Overview, Stock Prediction and Information-Based
+Trading.** Choosing the number of hidden states with AIC and BIC on AAPL and KOSPI, a rolling
+price forecast, three-state KOSPI return regimes, a rates-carry strategy driven by
+unemployment regimes, and informed trading: Kyle's model, tick and volume bars, an HMM on
+EUR/USD futures order flow, PIN, VPIN and order-flow imbalance.
+
+**SL09 · Hidden Markov Model Applications — From K-Means Clustering to Market Regimes and
+Informed Trading.** Opens with K-means as the simplest way to group observations, adds the
+Markov chain and emissions, then works forward, Viterbi and Baum–Welch before reaching the
+same stock-prediction and informed-trading applications as SL08.
 
 ### The Kalman filter and state-space series — SL10 to SL12
 
