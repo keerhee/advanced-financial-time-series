@@ -11,9 +11,15 @@ The decks used in the face-to-face class, Weeks 4–16. English and Korean PDF f
 | VAR Models: Basics | Week 6 | [EN](W06_VAR_Basic_EN.pdf) · [KR](W06_VAR_Basic_KR.pdf) | 52 |
 | VAR Key Formulas — Cheat Sheet | Week 6 | [EN](W06_VAR_Cheat_Sheet_EN.pdf) · [KR](W06_VAR_Cheat_Sheet_KR.pdf) | 32 |
 | IRF and FEVD Workbook | Week 6 | [EN](W06_VAR_IRF_FEVD_Workbook_EN.pdf) · [KR](W06_VAR_IRF_FEVD_Workbook_KR.pdf) | 17 |
+| VAR Model Summary — Part 1 | Week 6 | [EN](W06_P1_VAR_Model_Summary_EN.pdf) · [KR](W06_P1_VAR_Model_Summary_KR.pdf) | 10 |
+| Granger Causality Summary — Part 2 | Week 6 | [EN](W06_P2_Granger_Causality_Summary_EN.pdf) · [KR](W06_P2_Granger_Causality_Summary_KR.pdf) | 9 |
+| Impulse Responses and Variance Decomposition Summary — Part 3 | Week 6 | [EN](W06_P3_IRF_FEVD_Summary_EN.pdf) · [KR](W06_P3_IRF_FEVD_Summary_KR.pdf) | 8 |
 | Cointegration & ECM Basics | Week 7 | [EN](W07_Cointegration_Basic_EN.pdf) · [KR](W07_Cointegration_Basic_KR.pdf) | 40 |
 | Cointegration & ECM — Formula Cheat Sheet | Week 7 | [EN](W07_Cointegration_Cheat_Sheet_EN.pdf) · [KR](W07_Cointegration_Cheat_Sheet_KR.pdf) | 33 |
 | Five-Asset Cointegration Workbook | Week 7 | [EN](W07_Cointegration_Workbook_EN.pdf) · [KR](W07_Cointegration_Workbook_KR.pdf) | 11 |
+| Cointegration Summary — Part 1 | Week 7 | [EN](W07_P1_Cointegration_Summary_EN.pdf) · [KR](W07_P1_Cointegration_Summary_KR.pdf) | 7 |
+| Cointegration Tests Summary — Part 2 | Week 7 | [EN](W07_P2_Cointegration_Tests_Summary_EN.pdf) · [KR](W07_P2_Cointegration_Tests_Summary_KR.pdf) | 7 |
+| Error Correction and Pairs Trading Summary — Part 3 | Week 7 | [EN](W07_P3_Error_Correction_Pairs_Summary_EN.pdf) · [KR](W07_P3_Error_Correction_Pairs_Summary_KR.pdf) | 8 |
 | The Box–Jenkins Procedure | Week 8 | [EN](W08_Box_Jenkins_Procedure_EN.pdf) · [KR](W08_Box_Jenkins_Procedure_KR.pdf) | 17 |
 | GARCH Value at Risk — A Beginner's Guide | Week 8 | [EN](W08_GARCH_VaR_EN.pdf) · [KR](W08_GARCH_VaR_KR.pdf) | 16 |
 | Stationarity and Unit Roots | Week 9 | [EN](W09_01_Stationarity_Unit_Root_EN.pdf) · [KR](W09_01_Stationarity_Unit_Root_KR.pdf) | 22 |
