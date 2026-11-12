@@ -35,6 +35,9 @@ The decks used in the face-to-face class, Weeks 4–16. English and Korean PDF f
 | The Kalman Filter and Its Extensions | Week 10 | [EN](W10_Kalman_and_Extensions_EN.pdf) · [KR](W10_Kalman_and_Extensions_KR.pdf) | 27 |
 | Kalman Filter and EM | Week 10 | [EN](W10-1_Kalman_Filter_and_EM_EN.pdf) · [KR](W10-1_Kalman_Filter_and_EM_KR.pdf) | 87 |
 | State Space Hand Calculations — Workbook | Week 10 | [EN](W10-1_State_Space_Workbook_EN.pdf) · [KR](W10-1_State_Space_Workbook_KR.pdf) | 9 |
+| The Kalman Filter — The Basic Model | Week 11 | [EN](W11_Kalman_Filter_Basic_Model_EN.pdf) · KR in preparation | 18 |
+| The Professor's Walk — Forward and Viterbi by Hand | Week 11 | [EN](W11_HMM_Professors_Walk_Example_EN.pdf) · KR in preparation | 23 |
+| State Space Models — Kalman Filter and EM | Week 11 | [EN](W11_State_Space_Kalman_EM_EN.pdf) · KR in preparation | 94 |
 | HMMs and Market Regimes | Week 11 | [EN](W11_HMM_EN.pdf) · [KR](W11_HMM_KR.pdf) | 23 |
 | Continuous-Time Financial Models | Week 12 | [EN](W12_Continuous_Time_and_Rates_EN.pdf) · [KR](W12_Continuous_Time_and_Rates_KR.pdf) | 48 |
 | GDP Nowcasting through a Bank of Korea Paper | Week 13 | [EN](W13_BOK_Nowcasting_EN.pdf) · [KR](W13_BOK_Nowcasting_KR.pdf) | 27 |
