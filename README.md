@@ -30,6 +30,7 @@ history on every save.
 | `final_project/` | [Final project](final_project/) — the capstone assignment set in Week 15 and due in Week 16: a guide to the seven Claude Code projects and a pre-study primer, in English and Korean |
 | `supplementary/` | [Supplementary notes](supplementary/) — short decks answering questions asked in class, the Week 4 make-up class, the Week 6–7 cheat sheets, and the Week 9 Kalman notes, in English and Korean |
 | `lecture_sd/` | [In-class decks](lecture_sd/) — the decks used in the face-to-face class for Weeks 4–16: basic decks, model comparisons, formula cheat sheets and hand-calculation workbooks, in English and Korean |
+| `late_term_lectures/` | [Late-term lectures](late_term_lectures/) — additional decks, labs and workbooks for Weeks 10–16 (Kalman and HMM labs, continuous-time finance, Bayesian time series, causal inference, deep time series, generative Monte Carlo), in English |
 | `infographics/` | [Infographics](infographics/) — 70 one-page visual summaries plus a series index, in course order, PNG and editable SVG, in English and Korean |
 | `special_lectures/` | [Special lectures](special_lectures/) — stand-alone lectures that run one topic across units end to end: cointegration, a four-part pairs-trading series, then hidden Markov model and Kalman filter series of three lectures each, in English and Korean |
 | `site/` | The GitHub Pages listing page (`index.html`, one file) |
